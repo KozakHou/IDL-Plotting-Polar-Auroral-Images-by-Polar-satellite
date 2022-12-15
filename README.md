@@ -1,6 +1,6 @@
 # IDL-Plotting-Polar-Auroral-Images-by-Polar-satellite
 
-See the Title
+
 
 **Citation**
 ```
