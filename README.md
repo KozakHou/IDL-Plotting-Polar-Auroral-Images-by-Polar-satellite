@@ -1,6 +1,8 @@
 # IDL-Plotting-Polar-Auroral-Images-by-Polar-satellite
 
+Aurora
 
+![alt www](https://github.com/KozakHou/IDL-Plotting-Polar-Auroral-Images-by-Polar-satellite/blob/main/Aurora.jpeg)
 
 **Citation**
 ```
